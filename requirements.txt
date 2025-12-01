@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+openai #ai brain
+pydub #ai text to voice
+sounddevice #if we use voice i/p instead of keyboard input
+numpy
+requests
+pyttsx3
+python-multipart
+SpeechRecognition
+pyngrok
+aiortc
+python-dotenv
